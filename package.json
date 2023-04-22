@@ -1,0 +1,14 @@
+{
+  "name": "mbgl-offline-shaver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andrew Harvey <andrew@alantgeo.com.au>",
+  "license": "MIT",
+  "dependencies": {
+    "@mapbox/vtshaver": "^0.3.2",
+    "async": "^3.2.4",
+    "minimist": "^1.2.8",
+    "pako": "^2.1.0",
+    "sqlite3": "^5.1.6"
+  }
+}
